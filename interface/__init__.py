@@ -1,0 +1,14 @@
+from .home import Ui_MainWindow as Ui_HomeWindow
+from .workouts import Ui_MainWindow as Ui_WorkoutWindow
+from .exercise import Ui_MainWindow as Ui_ExerciseWindow
+from .exercise1 import Ui_MainWindow as Ui_CreateExerciseForWorkoutWindow
+from .add_new_fees import Ui_MainWindow as Ui_AddFeeWindow
+from .create_new_workout import Ui_MainWindow as Ui_CreateNewWorkoutWindow
+from .create_new_exercise import Ui_MainWindow as Ui_CreateNewExerciseWindow
+from .catalog_of_exercises import Ui_MainWindow as Ui_CatalogOfExercisesWindow
+from .database_fee_payment import Ui_MainWindow as Ui_DatabaseFeePaymentWindow
+from .fee_management import Ui_MainWindow as Ui_FeeManagementWindow
+from .view_all_exercises import Ui_MainWindow as Ui_ViewAllExercisesWindow
+from .view_previous_workouts import Ui_MainWindow as Ui_ViewPreviousWorkoutsWindow
+from .calendar import Ui_MainWindow as Ui_CalendarWindow
+from .create_workout import Ui_MainWindow as Ui_CreateWorkoutWindow
